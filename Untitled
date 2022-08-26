@@ -1,0 +1,244 @@
+<!doctype html>
+
+<html lang="en">
+
+<Head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Website.css"
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+
+</Head>
+<body>
+<table> 
+
+    <tr id="Name">
+    <th colspan="2" >Kevin Bahner <br> </th>
+    </tr>
+
+    <tr id="Info">
+    <th colspan="2">kevbahner@gmail.com | <a href="https://www.linkedin.com/in/kevin-bahner-b313641a2/">Visit my LinkedIn!</a></th>
+    <th></th>
+    </tr>
+
+    <tr class="Block">
+        <td colspan="2">Education</td>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>Bachelor of Computer Information Systems</a> <a class="floatright">Fall 2023</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>Kent State University, Kent, OH</td>
+    </tr>
+    <tr class="Block-Subtext">
+        <td>3.9 GPA, Dean's List, 56 credit hours completed.</td>
+    </tr>
+    
+    <tr class="Block-Text">
+        <td><a>High School Diploma</a> <a class="floatright">Spring 2020</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>Riverside Local Schools, Painesville, OH</td>
+
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td class="boot">3.4 GPA, Honors and College Credit Plus classes</td>
+    </tr>
+
+    <tr class="Block">
+        <td colspan="2">Experience</td>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>Cohen & Company Summer End User Technology Intern</a><a class="floatright">Cleveland, Ohio</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>May 2021 – Aug 2021 (4 months)</td>
+    </tr>
+    <tr class="Block-Link">
+        <td>
+            <button class="accordion smol">What were my responsibilites?</button>
+            <div class="panel">
+            <p>My main duties were imaging laptops for new and existing users and then assisting them with anything they needed. This includes hardware, software, and even general tech advice. I had other auxiliary duties in this role like creating and maintaining organization systems for storage rooms, creating PowerShell scripts to ease imaging, and documenting fix processes to create knowledge base articles. I was also selected to travel to a new office and assist with its standup over the course of three days. In this position I was paired with another intern and two people who oversaw me.</p>
+        </div>
+        </td>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>Riverside Local Schools IT Intern</a><a class="floatright">Painesville, Ohio</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>June 2018 - July 2020 (2 years 2 months)</td>
+    </tr>
+
+    <tr class="Block-Link">
+        <td class="boot"><button class="accordion smol">What were my responsibilites?</button>
+        <div class="panel">
+            <p>My duties in this position gradually built up over time as I progressed through my internship. I started with learning how to fix hardware. This included fixing things like Chrome Books, Windows laptops, and Windows desktops. I would do everything from replacing motherboards to something as simple as replacing keys. After learning hardware skills, I was taught software skills like how to image PCs through windows deployment services and general troubleshooting for programs we used like SMART and other educational software. After I had these two foundational skills mastered, I started completing tickets like a normal break fix tech would. I assisted users and explained to them what I was doing in a way that made it understandable to them. After I became familiar with general end user ticketing, I started getting assigned networking tasks. One of my first projects was setting up a PC lab for design students. I ran cables and worked with an upper-level tech to configure a Cisco switch for the room. Towards the end of my internship, I began working on creating a Windows 10 image for our computers with Microsoft Deployment Toolkit on their Windows 2006 server running WDS.</p>
+        </div>
+        </td>
+    </tr>
+
+    <tr class="Block">
+        <td colspan="2">Skills</td>
+    </tr>
+
+    <tr>
+        
+
+    <tr>
+        <td colspan="2" class="skills boot">
+    <div class="left">
+        <a class="infohead">Hard Skills:</a>
+        <ul>Windows troubleshooting</ul>
+        <ul>Powershell Scripting</ul>
+        <ul>Hardware repair</ul>
+        <ul>Jira Service Desk</ul>
+        <ul>Cisco Meraki</ul>
+        <ul>Familiar with MS MDT, WDS</ul>
+        <ul>Office Standup</ul>
+        <ul>General Networking</ul>
+        <ul>Teamviewer Management</ul>
+    </div>
+
+    <div class="right">
+        <a class="infohead">Soft Skills:</a>
+        <ul>Staff training</ul>
+        <ul>Team motivation and communication</ul>
+        <ul>Personnel management </ul>
+        <ul>Project management</ul>
+        <ul>Working Autonomously</ul>
+        <ul>Communication with non-tech staff</ul>
+        <ul>Ethics</ul>
+        <ul>Adaptability</ul>
+    </div>
+    </td>
+    </tr>
+    </tr>
+
+
+    <tr class="Block">
+        <td colspan="2">Volunteer/School Activities</td>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>Robotics</a> <a href="https://www.awtrobobots.com/">AWT ROBOBOTS</a> <a class="floatright">August 2015- July 2019</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>Team Leader</td>
+    </tr>
+    <tr class="Block-Subtext">
+        <td>Built metal RC cars with weapons on them. Competed against other schools in the final tournament. The program is very similar to the TV Show “Robot Wars.” </td>
+        <br>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>Volunteer Laptop Repair</a> <a class="floatright">Summer 2019</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>Repaired and reimaged donated laptops that were going to be thrown away. The laptops were given to a church who provided them to families in need.</td>
+    <br>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>Provost Leadership Academy</a> <a class="floatright">2020-Present</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>Provost Leadership Academy provides an opportunity to improve an aspect of the Kent Campus. Our group tackled the future problem of transitioning our primary learning  platform. We created an introductory course that would teach the student how to use the Canvas platform. It was made in collaboration with the Kent State office responsible with transitioning to Canvas. I currently participate in PLA by mentoring and leading a group of 12 freshman who are working towards their own project. </td>
+        <br>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>Cleveland Food Bank</a> <a class="floatright">Summer 2021</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>Volunteered at Cleveland food bank packaging meals in collaboration with my Cohen & Company Internship.</td>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a href="https://www.betagammasigma.org/home">Gamma Beta Sigma</a> <a class="floatright">2021</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td>Maintained a 3.5 GPA in the college of business and was invited to join the Beta Gamma Sigma business honor society.</td>
+    </tr>
+
+    <tr class="Block-Text">
+        <td><a>CIS Enrichment Scholarship</a> <a class="floatright">2021</a></td>
+    </tr>
+
+    <tr class="Block-Subtext">
+        <td class="boot">I was selected to recieve a $1,000 scholarship based upon my academic performance.</td>
+    </tr>
+
+    <tr class="Block">
+        <td colspan="2">Personal Projects</td>
+    </tr>
+
+    <tr>
+        
+    </tr>
+
+</table>
+
+<button class="accordion">Raspberry Pi</button>
+<div class="panel">
+    <img src="Pivpn.PNG" alt="pihole-dashboard" class="center">
+  <p>I set up a personal DNS server through an app called pi-hole on a Raspberry pi 4 B. This server allowed me to add domain block lists to block ads from a DNS level. I used this on my home network as my primary DNS server. </p>
+  <img src="pivpnlogo.png" alt="Pi-Hole-Logo" class="center1">
+  <p>One of the main drawbacks is that I could only use this DNS server on my local network. To solve this problem I utilized a project called <a href="https://pivpn.io/">PiVPN</a>. This project provided a framework to setup a Wireguard VPN. After portfowarding and setting up the correct IP's through Wireguard I can access my home network and DNS server from any location and even ssh into my pi.</p>
+</div>
+
+<button class="accordion">Powershell</button>
+<div class="panel">
+    <img src="powershell.png" alt="powershell logo" class="center1">
+  <p>On of my main duties at my Cohen & Company internship was upgrading user PCs. The process of moving files and making sure everything was in the right place was very time consuming and inefficient. To solve this problem, I developed a PowerShell script that would automate all the functions I was doing.</p>
+  <img src="langoru.PNG" alt="powershell script" class="center">
+  <p>To begin, the main functionality of this script is to move files over. I found where everything I needed was located and began automating the move with PowerShell. During this process I realized I could move Chrome profiles and Adobe Signatures, which was another labor-intensive process.</p>
+  <img src="swingwowoowowoow.PNG" alt="powershell script" class="center">
+  <p>After creating scripts to move files and folders I created a master script which contained all the functions and kept track of which processes had been ran. It had switch statements which allowed you to pick a spot to start or to resume from what process ran last.</p>
+  <img src="lagagagarou.PNG" alt="powershell script" class="center">
+  <p>Finally, I tackled one of the main problems I encountered which was users going offline while I was moving files over from their current PC. To remedy this, I wrote this loop which was ran after every process completed. The loop would see if the old directory was reachable and if it wasn’t it would check every 15 seconds. This meant that I could start the script and then leave it unattended to complete.</p>
+</div>
+
+<button class="accordion">MDT & WDS</button>
+<div class="panel">
+  <p>Coming Soon</p>
+</div>
+
+<script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+    
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        /* Toggle between adding and removing the "active" class,
+        to highlight the button that controls the panel */
+        this.classList.toggle("active");
+    
+        /* Toggle between hiding and showing the active panel */
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+          panel.style.display = "none";
+        } else {
+          panel.style.display = "block";
+        }
+      });
+    }
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,156 @@
+html {
+    background: #4E6C7B;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom:1%;
+    padding:0.5%;
+    filter: drop-shadow(0px 0px 20px black);
+}
+
+table {
+    width: 100%;
+}
+
+.Name , .Info , .Block {
+    text-align: center;
+}
+
+.Block {
+    background-color: #2e2e2e;
+    font-size: 2em;
+    font-weight: bold;
+    filter: drop-shadow(0px 0px 5px black);
+    color: #FFFCF3;
+}
+
+.Block-Text {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+#Name {
+    font-size: 72px;
+    color: black;
+}
+
+#info {
+ color: darkslategray;
+ margin: 10%;
+ font-size: 16px;
+}
+
+.List-Header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+.left, .right {
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.068);
+}
+
+
+
+.infohead {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: block;
+    text-align: center;
+    background-color: #444444;
+    width:100%;
+    color:#FFFCF3;
+    filter: drop-shadow(0px 0px 5px black);
+}
+
+
+.floatright {
+    float:right;
+    font-size: 18px;
+}
+
+
+.skills {
+    display: flex;
+    column-gap: 10%;
+    padding-top: 3%;
+}
+
+@media only screen and (max-width: 1200px) {
+    body {
+        width: 90%;
+    }
+}
+
+.Block-Text td {
+    padding-top: 3%;
+}
+
+.boot {
+    padding-bottom: 3%;
+}
+
+th {
+    padding-bottom:2%;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: center;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+  }
+
+  .center {
+    padding: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    transition-duration: 1s;
+  }
+
+  .center:hover {
+      width: 95%;
+      margin: 0%;
+  }
+
+  .center1 {
+    padding: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
